@@ -1,4 +1,4 @@
-setTimeout(() => {
-    alert('Welcome to ToDo app!');
-  }, 3000);
+// setTimeout(() => {
+//     alert('Welcome to ToDo app!');
+//   }, 3000);
   
